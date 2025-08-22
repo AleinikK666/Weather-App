@@ -1,13 +1,13 @@
 # Weather-App
-Приложение погода, разработанное специально для iOS, которое предоставляет актуальную информацию о погоде в удобном формате.
+Weather application developed specifically for iOS, which provides up-to-date weather information in a convenient format.
 
-### Основной функционал
-1) Получение данных о погоде через OpenWeatherMap API
-2) Автоматическое определение местоположения
-3) Поиск погоды по названию города
-4) Отображение основных метеорологических данных:
-   - Текущая температура
-   - Описание погоды
-   - Влажность
-   - Скорость ветра
+### Main functionality
+1) Obtaining weather data via OpenWeatherMap API
+2) Automatic location detection
+3) Search for weather by city name
+4) Displaying basic meteorological data:
+- Current temperature
+- Weather description
+- Humidity
+- Wind speed
 
